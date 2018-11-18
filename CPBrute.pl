@@ -23,17 +23,17 @@ print q(
 ###############################################################
 #     usage : cpanel.pl [HOST] [User] [PORT] [list] [File]    #
 #-------------------------------------------------------------#
-#    [Host] : victim Host             (contoh.com)       	  #
-#    [User] : User Name               (demo)                  
-#
-#    [PORT] : Port of Cpanel          (2082)                  
-#
+#    [Host] : victim Host             (contoh.com)            #
+#    [User] : User Name               (demo)                  #
+#                                                             #
+#    [PORT] : Port of Cpanel          (2082)                  #
+#                                                             #
 #    [list] : File Of password list   (list.txt)              #
 #    [File] : file for save password  (password.txt)          #
-#                                                             
-#
+#                                                             #
+#                                                             #
 ###############################################################
-#       Cod3d By Mr.XSecr3t | Dedicated For My Birthday
+#                      Cod3d By Mr.XSecr3t                    #
 ###############################################################
 );exit;}
 
@@ -44,10 +44,10 @@ $numstart  = "-1";
 sub headx() {
 print q(
 ###############################################################
-#              Cpanel Password Brute Force Tool               
-#
-#                  C0d3d By Mr.XSecr3t | ICDT                 
-#
+#              Cpanel Password Brute Force Tool               #       
+#                                                             #
+#                  C0d3d By Mr.XSecr3t | ICDT                 #
+#                                                             #
 ###############################################################
 );
 open (PASSFILE, "<$list") || die "[-] Can't 
