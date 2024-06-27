@@ -23,7 +23,7 @@ print q(
 ###############################################################
 #     usage : cpanel.pl [HOST] [User] [PORT] [list] [File]    #
 #-------------------------------------------------------------#
-#    [Host] : victim Host             (contoh.com)            #
+#    [Host] : victim Host             (example.com)           #
 #    [User] : User Name               (demo)                  #
 #                                                             #
 #    [PORT] : Port of Cpanel          (2082)                  #
